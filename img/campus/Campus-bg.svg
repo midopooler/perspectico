@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="748.706" height="529" viewBox="0 0 748.706 529">
+  <defs>
+    <filter id="Path_3701" x="117.965" y="44.551" width="630.741" height="409.25" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Campus" transform="translate(4465.029 -1229)">
+    <path id="Path_3702" data-name="Path 3702" d="M148.435,0,86.627,120.554H99.1v98.307H36.225L0,289.516,448.855,519.644,597.29,230.128Z" transform="translate(-4465.029 1229)" fill="#f2f2f2" opacity="0.7"/>
+    <ellipse id="Ellipse_478" data-name="Ellipse 478" cx="11.118" cy="11.118" rx="11.118" ry="11.118" transform="translate(-3930.989 1692.495)" fill="#2dbfbd" opacity="0.4"/>
+    <ellipse id="Ellipse_479" data-name="Ellipse 479" cx="14.629" cy="14.629" rx="14.629" ry="14.629" transform="translate(-3977.377 1728.742)" fill="#2dbfbd" opacity="0.4"/>
+    <rect id="Rectangle_1226" data-name="Rectangle 1226" width="74.901" height="74.901" transform="translate(-4450.188 1363.597)" fill="#316f98" opacity="0.5"/>
+    <ellipse id="Ellipse_477" data-name="Ellipse 477" cx="27.503" cy="27.503" rx="27.503" ry="27.503" transform="translate(-3778.582 1284.844)" fill="#2dbfbd" opacity="0.4"/>
+    <g transform="matrix(1, 0, 0, 1, -4465.03, 1229)" filter="url(#Path_3701)">
+      <path id="Path_3701-2" data-name="Path 3701" d="M4,0H566.741a4,4,0,0,1,4,4V345.25a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(147.96 74.55)" fill="#edf9f9"/>
+    </g>
+    <path id="Rectangle_1221" data-name="Rectangle 1221" d="M4,0H136.271a0,0,0,0,1,0,0V349.25a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(-4316.674 1303.551)" fill="#444584"/>
+    <rect id="Rectangle_1216" data-name="Rectangle 1216" width="129.953" height="70.391" rx="4" transform="translate(-4163.257 1347.771)" fill="#fff" opacity="0.9"/>
+    <rect id="Rectangle_1213" data-name="Rectangle 1213" width="129.953" height="70.391" rx="4" transform="translate(-4026.986 1347.771)" fill="#fff" opacity="0.9"/>
+    <rect id="Rectangle_1208" data-name="Rectangle 1208" width="129.953" height="70.391" rx="4" transform="translate(-3890.715 1347.771)" fill="#fff" opacity="0.9"/>
+    <rect id="Rectangle_1222" data-name="Rectangle 1222" width="90.245" height="8.122" rx="4.061" transform="translate(-4299.527 1364.016)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_1225" data-name="Rectangle 1225" width="33.391" height="10.829" rx="5.415" transform="translate(-4299.527 1319.795)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_1224" data-name="Rectangle 1224" width="66.782" height="8.122" rx="4.061" transform="translate(-4299.527 1383.87)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_1223" data-name="Rectangle 1223" width="87.538" height="8.122" rx="4.061" transform="translate(-4299.527 1401.919)" fill="#b2b2b2" opacity="0.21"/>
+    <text id="Profile" transform="translate(-4143.029 1365)" font-size="8.5" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.6"><tspan x="0" y="0">Profile</tspan></text>
+    <text id="Process" transform="translate(-4007.029 1365)" font-size="8.5" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.6"><tspan x="0" y="0">Process</tspan></text>
+    <text id="Database" transform="translate(-3870.029 1365)" font-size="8.5" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.6"><tspan x="0" y="0">Database</tspan></text>
+  </g>
+</svg>

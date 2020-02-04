@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="769.035" height="525.271" viewBox="0 0 769.035 525.271">
+  <defs>
+    <filter id="Rectangle_581" x="145.605" y="78" width="584.741" height="367.25" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_586" x="281.5" y="268.23" width="487.535" height="210.037" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1643" data-name="Group 1643" transform="translate(-986 -2407)">
+    <g id="Group_1367" data-name="Group 1367" transform="translate(986 2407)">
+      <path id="Path_3418" data-name="Path 3418" d="M147.388,0,86.017,119.7H98.406v97.614H35.97L0,287.475,445.691,515.981,593.08,228.506Z" transform="translate(0 0)" fill="#f2f2f2" opacity="0.7"/>
+      <ellipse id="Ellipse_388" data-name="Ellipse 388" cx="11.04" cy="11.04" rx="11.04" ry="11.04" transform="translate(530.276 460.228)" fill="#2dbfbd" opacity="0.4"/>
+      <ellipse id="Ellipse_389" data-name="Ellipse 389" cx="14.526" cy="14.526" rx="14.526" ry="14.526" transform="translate(484.215 496.219)" fill="#2dbfbd" opacity="0.4"/>
+      <rect id="Rectangle_927" data-name="Rectangle 927" width="74.373" height="74.373" transform="translate(14.736 133.649)" fill="#316f98" opacity="0.5"/>
+      <ellipse id="Ellipse_387" data-name="Ellipse 387" cx="27.309" cy="27.309" rx="27.309" ry="27.309" transform="translate(681.609 55.45)" fill="#2dbfbd" opacity="0.4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 986, 2407)" filter="url(#Rectangle_581)">
+      <rect id="Rectangle_581-2" data-name="Rectangle 581" width="566.741" height="349.25" rx="4" transform="translate(154.61 86)" fill="#edf9f9"/>
+    </g>
+    <path id="Rectangle_582" data-name="Rectangle 582" d="M4,0H136.271V349.25H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(1137 2493.001)" fill="#454483"/>
+    <rect id="Rectangle_588" data-name="Rectangle 588" width="90.245" height="8.122" rx="4.061" transform="translate(1154.146 2553.466)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_591" data-name="Rectangle 591" width="33.391" height="10.829" rx="5.415" transform="translate(1154.146 2509.245)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_589" data-name="Rectangle 589" width="66.782" height="8.122" rx="4.061" transform="translate(1154.146 2573.32)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_590" data-name="Rectangle 590" width="87.538" height="8.122" rx="4.061" transform="translate(1154.146 2591.369)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_586-2" data-name="Rectangle 586" width="402.494" height="162.563" rx="4" transform="translate(1290 2524.735)" fill="#fff"/>
+    <path id="Path_2422" data-name="Path 2422" d="M-17891,331.158h354.211" transform="translate(19205.396 2283.493)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Path_2423" data-name="Path 2423" d="M-17891,331.158h354.211" transform="translate(19205.396 2305.152)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Path_2424" data-name="Path 2424" d="M-17891,331.158h354.211" transform="translate(19205.396 2326.811)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Rectangle_954" data-name="Rectangle 954" d="M0,0H197a4,4,0,0,1,4,4V22H0Z" transform="translate(1491.645 2524.45)" fill="#e3e3e3" opacity="0.7"/>
+    <text id="See_more" data-name="See more" transform="translate(1475 2675.45)" fill="#04d2c8" font-size="8" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">See more</tspan></text>
+    <g id="Group_1297" data-name="Group 1297" transform="translate(10745.62 5718.45)">
+      <rect id="Rectangle_597" data-name="Rectangle 597" width="69.464" height="13.537" rx="2" transform="translate(-9142.621 -3152.45)" fill="#04d2c8" opacity="0.96"/>
+      <text id="Upload_Email_List" data-name="Upload Email List" transform="translate(-9135.621 -3143.45)" fill="#fff" font-size="7" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Upload Email List</tspan></text>
+    </g>
+    <rect id="Rectangle_1017" data-name="Rectangle 1017" width="29" height="6" rx="3" transform="translate(1355 2600)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1018" data-name="Rectangle 1018" width="16" height="6" rx="3" transform="translate(1316 2600)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1019" data-name="Rectangle 1019" width="29" height="6" rx="3" transform="translate(1426 2600)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1020" data-name="Rectangle 1020" width="50" height="6" rx="3" transform="translate(1486 2600)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1021" data-name="Rectangle 1021" width="28" height="6" rx="3" transform="translate(1567 2600)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1022" data-name="Rectangle 1022" width="37" height="6" rx="3" transform="translate(1630 2600)" fill="#f6f6f6" opacity="0.7"/>
+    <g transform="matrix(1, 0, 0, 1, 986, 2407)" filter="url(#Rectangle_586)">
+      <rect id="Rectangle_586-3" data-name="Rectangle 586" width="442.535" height="165.037" rx="4" transform="translate(304 289.73)" fill="#fff"/>
+    </g>
+    <path id="Path_2422-2" data-name="Path 2422" d="M-17891,331.158h387.949" transform="translate(19208.523 2428.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Path_2423-2" data-name="Path 2423" d="M-17891,331.158h387.949" transform="translate(19208.523 2451.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Path_2424-2" data-name="Path 2424" d="M-17891,331.158h387.949" transform="translate(19208.523 2475.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Path_2424-3" data-name="Path 2424" d="M-17891,331.158h387.949" transform="translate(19208.523 2498.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <text id="See_more-2" data-name="See more" transform="translate(1495 2847.45)" fill="#04d2c8" font-size="8" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">See more</tspan></text>
+    <g id="Group_1522" data-name="Group 1522" opacity="0.8">
+      <text id="Student_Database" data-name="Student Database" transform="translate(1353.645 2538.45)" fill="#313131" font-size="8" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Student Database</tspan></text>
+      <text id="Student_s_Invite_List" data-name="Student&apos;s Invite List" transform="translate(1309.645 2563.45)" fill="#313131" font-size="8" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Student&apos;s Invite List</tspan></text>
+      <text id="Recruiter_Database" data-name="Recruiter Database" transform="translate(1551.645 2538.45)" fill="#313131" font-size="8" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Recruiter Database</tspan></text>
+      <text id="By_Year" data-name="By Year" transform="translate(1392.645 2720.45)" fill="#313131" font-size="8" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">By Year</tspan></text>
+      <text id="By_Course" data-name="By Course" transform="translate(1436.645 2720.45)" fill="#313131" font-size="8" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">By Course</tspan></text>
+      <text id="Student_s_Data" data-name="Student&apos;s Data" transform="translate(1312.645 2719.45)" fill="#313131" font-size="8" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Student&apos;s Data</tspan></text>
+    </g>
+    <rect id="Rectangle_1023" data-name="Rectangle 1023" width="29" height="6" rx="3" transform="translate(1359 2742)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1024" data-name="Rectangle 1024" width="16" height="6" rx="3" transform="translate(1320 2742)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1025" data-name="Rectangle 1025" width="29" height="6" rx="3" transform="translate(1442 2742)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1026" data-name="Rectangle 1026" width="50" height="6" rx="3" transform="translate(1510 2742)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1027" data-name="Rectangle 1027" width="28" height="6" rx="3" transform="translate(1598 2742)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1028" data-name="Rectangle 1028" width="37" height="6" rx="3" transform="translate(1669 2742)" fill="#f6f6f6" opacity="0.7"/>
+  </g>
+</svg>

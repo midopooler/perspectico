@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.953" height="70.391" viewBox="0 0 75.953 70.391">
+  <defs>
+    <filter id="XMLID_2_" x="30.656" y="19.821" width="29.905" height="44.81" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="your_score" data-name="your score" transform="translate(4240.957 -1401.742)">
+    <rect id="Rectangle_1227" data-name="Rectangle 1227" width="75.953" height="70.391" rx="4" transform="translate(-4240.957 1401.742)" fill="#fff" opacity="0.77"/>
+    <text id="Your_Score-2" data-name="Your Score" transform="translate(-4222 1419)" font-size="7" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.8"><tspan x="0" y="0">Your Score</tspan></text>
+    <g id="Group_1640" data-name="Group 1640" transform="translate(-4217.706 1427.063)">
+      <ellipse id="XMLID_1_" cx="14.905" cy="14.905" rx="14.905" ry="14.905" transform="translate(0 0)" fill="none" stroke="#e6e7e8" stroke-miterlimit="10" stroke-width="2"/>
+      <g transform="matrix(1, 0, 0, 1, -23.25, -25.32)" filter="url(#XMLID_2_)">
+        <path id="XMLID_2_2" data-name="XMLID_2_" d="M200.5,223a14.9,14.9,0,1,1,0,29.81" transform="translate(-162.34 -197.68)" fill="none" stroke="#04d2c8" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+      <text id="_53" data-name="53" transform="translate(10.689 18.335)" fill="#04d2c8" font-size="8" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">53</tspan></text>
+    </g>
+  </g>
+</svg>

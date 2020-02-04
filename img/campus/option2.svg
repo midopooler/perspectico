@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="217.211" height="90.165" viewBox="0 0 217.211 90.165">
+  <g id="_2" data-name="2" transform="translate(4163.257 -1569.775)">
+    <rect id="Rectangle_1217" data-name="Rectangle 1217" width="217.211" height="90.165" rx="4" transform="translate(-4163.257 1569.775)" fill="#fff"/>
+    <g id="Group_1633" data-name="Group 1633" transform="translate(-4027.942 1610.272)">
+      <rect id="Rectangle_611" data-name="Rectangle 611" width="70.851" height="4.418" rx="2.209" fill="#b2b2b2" opacity="0.29"/>
+      <rect id="Rectangle_612" data-name="Rectangle 612" width="70.851" height="4.418" rx="2.209" transform="translate(0 8.099)" fill="#b2b2b2" opacity="0.29"/>
+      <rect id="Rectangle_613" data-name="Rectangle 613" width="44.915" height="4.418" rx="2.209" transform="translate(0 16.199)" fill="#b2b2b2" opacity="0.29"/>
+    </g>
+    <g id="Group_1635" data-name="Group 1635" transform="translate(-4151.416 1603.761)">
+      <path id="Path_2404" data-name="Path 2404" d="M59.383,37.691A21.691,21.691,0,1,1,37.691,16,21.691,21.691,0,0,1,59.383,37.691ZM37.691,29.557a8.134,8.134,0,1,0,8.134,8.134A8.134,8.134,0,0,0,37.691,29.557Z" transform="translate(-16 -16)" fill="#ffb129"/>
+      <path id="Path_2405" data-name="Path 2405" d="M64,29.557a8.134,8.134,0,0,1,8.134,8.134H85.691A21.691,21.691,0,0,0,64,16Z" transform="translate(-42.309 -16)" fill="#0d51c8"/>
+      <path id="Path_2406" data-name="Path 2406" d="M76.73,69.748h0l9.585,9.589h0A21.624,21.624,0,0,0,92.669,64H79.112a8.107,8.107,0,0,1-2.382,5.748Z" transform="translate(-49.286 -42.308)" fill="#fede4b"/>
+      <path id="Path_2407" data-name="Path 2407" d="M64,16V29.557l1.5-13.5C65,16.023,64.506,16,64,16Z" transform="translate(-42.309 -16)" fill="#4ccb70"/>
+      <path id="Path_2409" data-name="Path 2409" d="M86.315,86.364,76.73,76.77l8.487,10.606C85.592,87.051,85.958,86.716,86.315,86.364Z" transform="translate(-49.286 -49.308)" fill="#4ccb70"/>
+    </g>
+    <g id="Group_1634" data-name="Group 1634" transform="translate(-4095.234 1609.791)">
+      <rect id="Rectangle_607" data-name="Rectangle 607" width="35.041" height="4.418" rx="2.209" transform="translate(12.972 0.481)" fill="#b2b2b2" opacity="0.29"/>
+      <rect id="Rectangle_608" data-name="Rectangle 608" width="22.826" height="4.418" rx="2.209" transform="translate(12.972 9.317)" fill="#b2b2b2" opacity="0.29"/>
+      <rect id="Rectangle_609" data-name="Rectangle 609" width="26.507" height="4.418" rx="2.209" transform="translate(12.972 18.152)" fill="#b2b2b2" opacity="0.29"/>
+      <rect id="Rectangle_610" data-name="Rectangle 610" width="17.671" height="4.418" rx="2.209" transform="translate(12.972 26.988)" fill="#b2b2b2" opacity="0.29"/>
+      <rect id="Rectangle_540" data-name="Rectangle 540" width="6.063" height="6.063" transform="translate(0)" fill="#fede4b"/>
+      <rect id="Rectangle_541" data-name="Rectangle 541" width="6.063" height="6.063" transform="translate(0 8.533)" fill="#4ccb70"/>
+      <rect id="Rectangle_542" data-name="Rectangle 542" width="6.063" height="6.063" transform="translate(0 17.291)" fill="#0d51c8"/>
+      <rect id="Rectangle_543" data-name="Rectangle 543" width="6.063" height="6.063" transform="translate(0 25.824)" fill="#ffb129"/>
+    </g>
+    <text id="Anaylitics" transform="translate(-4146.753 1588.197)" font-size="6" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.6"><tspan x="0" y="0">Anaylitics</tspan></text>
+  </g>
+</svg>

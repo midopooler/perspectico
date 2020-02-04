@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="284" height="284" viewBox="0 0 284 284">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_452" data-name="Ellipse 452" cx="142" cy="142" r="142" transform="translate(8994 -10109)" fill="#2dbfbd" opacity="0.5"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_54" data-name="Mask Group 54" transform="translate(-8994 10109)" clip-path="url(#clip-path)">
+    <path id="XMLID_33_" d="M56.628,0A137.009,137.009,0,0,0,0,111.125,140.121,140.121,0,0,0,6.64,153.6" transform="matrix(0.788, 0.616, -0.616, 0.788, 9097.063, -10139.5)" fill="none" stroke="#e6e7e8" stroke-miterlimit="10" stroke-width="6"/>
+    <path id="XMLID_32_" d="M161.614,26.184A137.782,137.782,0,0,0,0,26.184" transform="matrix(0.788, 0.616, -0.616, 0.788, 9156.441, -10125.188)" fill="none" stroke="#e6e7e8" stroke-miterlimit="10" stroke-width="6"/>
+    <path id="XMLID_35_" d="M49.988,153.6a136.353,136.353,0,0,0,6.64-42.471A137.01,137.01,0,0,0,0,0" transform="matrix(0.788, 0.616, -0.616, 0.788, 9267.576, -10004.131)" fill="none" stroke="#e6e7e8" stroke-miterlimit="10" stroke-width="6"/>
+    <path id="XMLID_34_" d="M0,0A137.476,137.476,0,0,0,130.669,94.964" transform="matrix(0.788, 0.616, -0.616, 0.788, 9007.467, -10014.217)" fill="rgba(0,0,0,0)" stroke="#e6e7e8" stroke-miterlimit="10" stroke-width="6"/>
+    <path id="XMLID_36_" d="M0,94.964A137.239,137.239,0,0,0,130.669,0" transform="matrix(0.788, 0.616, -0.616, 0.788, 9110.436, -9933.77)" fill="none" stroke="#e6e7e8" stroke-miterlimit="10" stroke-width="6"/>
+  </g>
+</svg>

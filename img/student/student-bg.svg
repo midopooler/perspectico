@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="752.706" height="529" viewBox="0 0 752.706 529">
+  <defs>
+    <filter id="Rectangle_581" x="125.965" y="44.521" width="626.741" height="409.25" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="bg" transform="translate(4874 -1283)">
+    <g id="Group_1367" data-name="Group 1367" transform="translate(-4999 -642)">
+      <path id="Path_3418" data-name="Path 3418" d="M148.435,0,86.627,120.554H99.1v98.307H36.225L0,289.516,448.855,519.644,597.29,230.128Z" transform="translate(125 1925)" fill="#f2f2f2" opacity="0.7"/>
+      <ellipse id="Ellipse_388" data-name="Ellipse 388" cx="11.118" cy="11.118" rx="11.118" ry="11.118" transform="translate(659.04 2388.495)" fill="#2dbfbd" opacity="0.4"/>
+      <ellipse id="Ellipse_389" data-name="Ellipse 389" cx="14.629" cy="14.629" rx="14.629" ry="14.629" transform="translate(612.653 2424.742)" fill="#2dbfbd" opacity="0.4"/>
+      <rect id="Rectangle_927" data-name="Rectangle 927" width="74.901" height="74.901" transform="translate(139.841 2059.597)" fill="#316f98" opacity="0.5"/>
+      <ellipse id="Ellipse_387" data-name="Ellipse 387" cx="27.503" cy="27.503" rx="27.503" ry="27.503" transform="translate(811.447 1980.844)" fill="#2dbfbd" opacity="0.4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -4874, 1283)" filter="url(#Rectangle_581)">
+      <rect id="Rectangle_581-2" data-name="Rectangle 581" width="566.741" height="349.25" rx="4" transform="translate(155.96 74.52)" fill="#edf9f9"/>
+    </g>
+    <path id="Rectangle_582" data-name="Rectangle 582" d="M4,0H136.271a0,0,0,0,1,0,0V349.25a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(-4721.645 1357.521)" fill="#444584"/>
+    <rect id="Rectangle_583" data-name="Rectangle 583" width="73.953" height="70.391" rx="4" transform="translate(-4568 1402)" fill="#fff" opacity="0.77"/>
+    <rect id="Rectangle_584" data-name="Rectangle 584" width="240.953" height="70.391" rx="4" transform="translate(-4487.957 1401.742)" fill="#fff" opacity="0.77"/>
+    <rect id="Rectangle_588" data-name="Rectangle 588" width="90.245" height="8.122" rx="4.061" transform="translate(-4704.498 1417.986)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_591" data-name="Rectangle 591" width="33.391" height="10.829" rx="5.415" transform="translate(-4704.498 1373.766)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_589" data-name="Rectangle 589" width="66.782" height="8.122" rx="4.061" transform="translate(-4704.498 1437.84)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_590" data-name="Rectangle 590" width="87.538" height="8.122" rx="4.061" transform="translate(-4704.498 1455.889)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_828" data-name="Rectangle 828" width="60.806" height="8.122" rx="4.061" transform="translate(-4469.301 1424.669)" fill="#e9e9e9" opacity="0.6"/>
+    <rect id="Rectangle_829" data-name="Rectangle 829" width="38.806" height="8.122" rx="4.061" transform="translate(-4387 1424.669)" fill="#e9e9e9" opacity="0.6"/>
+    <rect id="Rectangle_830" data-name="Rectangle 830" width="50.806" height="8.122" rx="4.061" transform="translate(-4312.301 1424.669)" fill="#e9e9e9" opacity="0.6"/>
+    <path id="Path_2422" data-name="Path 2422" d="M-17502.494,331.158" transform="translate(13343.75 1253.118)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <rect id="Rectangle_592" data-name="Rectangle 592" width="25.806" height="22.122" rx="3" transform="translate(-4544.301 1418)" fill="#e9e9e9" opacity="0.99"/>
+    <text id="Nikhil_Chainani" data-name="Nikhil Chainani" transform="translate(-4559 1454.331)" font-size="7" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.8"><tspan x="0" y="0">Nikhil Chainani</tspan></text>
+    <text id="Name" transform="translate(-4469 1419)" font-size="7" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.8"><tspan x="0" y="0">Name</tspan></text>
+    <text id="Nationality" transform="translate(-4387 1419)" font-size="7" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.8"><tspan x="0" y="0">Nationality</tspan></text>
+    <text id="Date_of_birth" data-name="Date of birth" transform="translate(-4312 1419)" font-size="7" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.8"><tspan x="0" y="0">Date of birth</tspan></text>
+  </g>
+</svg>

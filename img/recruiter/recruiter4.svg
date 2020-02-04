@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="761.06" height="529" viewBox="0 0 761.06 529">
+  <defs>
+    <filter id="Path_3516" x="118" y="45" width="630.741" height="409.25" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1090" x="279.272" y="164.234" width="481.788" height="306.563" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3528" x="315" y="143.449" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="388.694" height="207.3" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1586" data-name="Group 1586" transform="translate(-12455 -3579)">
+    <path id="Path_3451" data-name="Path 3451" d="M148.435,0,86.627,120.554H99.1v98.307H36.225L0,289.516,448.855,519.644,597.29,230.128Z" transform="translate(12455 3579)" fill="#f2f2f2" opacity="0.7"/>
+    <ellipse id="Ellipse_422" data-name="Ellipse 422" cx="11.118" cy="11.118" rx="11.118" ry="11.118" transform="translate(12989.04 4042.495)" fill="#2dbfbd" opacity="0.4"/>
+    <ellipse id="Ellipse_423" data-name="Ellipse 423" cx="14.629" cy="14.629" rx="14.629" ry="14.629" transform="translate(12942.652 4078.742)" fill="#2dbfbd" opacity="0.4"/>
+    <rect id="Rectangle_1037" data-name="Rectangle 1037" width="74.901" height="74.901" transform="translate(12469.841 3713.597)" fill="#316f98" opacity="0.5"/>
+    <ellipse id="Ellipse_424" data-name="Ellipse 424" cx="27.503" cy="27.503" rx="27.503" ry="27.503" transform="translate(13141.447 3634.844)" fill="#2dbfbd" opacity="0.4"/>
+    <g id="Group_1585" data-name="Group 1585" transform="translate(-944 -63.551)">
+      <rect id="Rectangle_1092" data-name="Rectangle 1092" width="129.051" height="83.928" rx="4" transform="translate(13974.217 3982.873)" fill="#fff" opacity="0.77"/>
+      <rect id="Rectangle_1093" data-name="Rectangle 1093" width="129.953" height="70.391" rx="4" transform="translate(13973.314 3761.771)" fill="#fff" opacity="0.9"/>
+      <rect id="Rectangle_1104" data-name="Rectangle 1104" width="38.806" height="8.122" rx="4.061" transform="translate(13899.313 3953.994)" fill="#b2b2b2" opacity="0.21"/>
+      <rect id="Rectangle_1105" data-name="Rectangle 1105" width="73.44" height="13.537" rx="2" transform="translate(14040 3852.919)" fill="#04d2c8" opacity="0.67"/>
+      <path id="Path_3519" data-name="Path 3519" d="M-17891,331.158h107.779" transform="translate(31877.461 3695.484)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+      <path id="Path_3520" data-name="Path 3520" d="M-17891,331.158h107.779" transform="translate(31877.461 3711.728)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+      <path id="Path_3521" data-name="Path 3521" d="M-17891,331.158h107.779" transform="translate(31877.461 3727.07)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+      <text id="Create_Process" data-name="Create Process" transform="translate(14051 3862)" fill="#fff" font-size="6.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Create Process</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 13399, 3642.55)" filter="url(#Path_3516)">
+        <path id="Path_3516-2" data-name="Path 3516" d="M4,0H566.741a4,4,0,0,1,4,4V345.25a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(148 75)" fill="#edf9f9"/>
+      </g>
+      <path id="Rectangle_1087" data-name="Rectangle 1087" d="M4,0H136.271a0,0,0,0,1,0,0V349.25a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(13547 3717.551)" fill="#444584"/>
+      <rect id="Rectangle_1088" data-name="Rectangle 1088" width="401.953" height="56.391" rx="4" transform="translate(13701 3761.771)" fill="#fff" opacity="0.9"/>
+      <g transform="matrix(1, 0, 0, 1, 13399, 3642.55)" filter="url(#Rectangle_1090)">
+        <rect id="Rectangle_1090-2" data-name="Rectangle 1090" width="436.788" height="261.563" rx="4" transform="translate(301.77 185.73)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_1094" data-name="Rectangle 1094" width="90.245" height="8.122" rx="4.061" transform="translate(13564.502 3778.016)" fill="#b2b2b2" opacity="0.21"/>
+      <rect id="Rectangle_1095" data-name="Rectangle 1095" width="33.391" height="10.829" rx="5.415" transform="translate(13564.502 3733.795)" fill="#b2b2b2" opacity="0.21"/>
+      <rect id="Rectangle_1096" data-name="Rectangle 1096" width="66.782" height="8.122" rx="4.061" transform="translate(13564.502 3797.87)" fill="#b2b2b2" opacity="0.21"/>
+      <rect id="Rectangle_1097" data-name="Rectangle 1097" width="87.538" height="8.122" rx="4.061" transform="translate(13564.502 3815.919)" fill="#b2b2b2" opacity="0.21"/>
+      <rect id="Rectangle_1131" data-name="Rectangle 1131" width="34.903" height="6.122" rx="3.061" transform="translate(13711 3775)" fill="#b2b2b2" opacity="0.2"/>
+      <rect id="Rectangle_1145" data-name="Rectangle 1145" width="34.903" height="6.122" rx="3.061" transform="translate(13781 3775)" fill="#b2b2b2" opacity="0.2"/>
+      <rect id="Rectangle_1146" data-name="Rectangle 1146" width="34.903" height="6.122" rx="3.061" transform="translate(13850 3775)" fill="#b2b2b2" opacity="0.2"/>
+      <rect id="Rectangle_1147" data-name="Rectangle 1147" width="34.903" height="6.122" rx="3.061" transform="translate(13920 3775)" fill="#b2b2b2" opacity="0.2"/>
+      <rect id="Rectangle_1148" data-name="Rectangle 1148" width="34.903" height="6.122" rx="3.061" transform="translate(13989 3775)" fill="#b2b2b2" opacity="0.2"/>
+      <rect id="Rectangle_1149" data-name="Rectangle 1149" width="34.903" height="6.122" rx="3.061" transform="translate(14059 3775)" fill="#b2b2b2" opacity="0.2"/>
+      <path id="Path_3517" data-name="Path 3517" d="M-17891,331.158h388.506" transform="translate(31615.5 3550.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+      <text id="Select_Aptitude_Traits" data-name="Select Aptitude Traits" transform="translate(13725 3848)" font-size="8.5" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Select Aptitude Traits</tspan></text>
+      <text id="Topic" transform="translate(13725 3871)" font-size="7.5" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Topic</tspan></text>
+      <text id="Level" transform="translate(13811 3871)" font-size="7.5" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Level</tspan></text>
+      <text id="Weightage_out_of_100_" data-name="Weightage ( out of 100)" transform="translate(13896 3871)" font-size="7.5" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Weightage ( out of 100)</tspan></text>
+      <text id="Slider_Value_" data-name="Slider Value (%)" transform="translate(14053 3871)" font-size="7.5" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Slider Value (%)</tspan></text>
+      <g id="Group_1571" data-name="Group 1571" transform="translate(13667 3620)">
+        <path id="Path_2311" data-name="Path 2311" d="M-11691.295-19308.605h349.073" transform="translate(11751.157 19489.102)" fill="none"/>
+        <path id="Path_2312" data-name="Path 2312" d="M-11691.3-19308.605h203.139" transform="translate(11751.158 19489.102)" fill="none" stroke="#04d2c8" stroke-linecap="round" stroke-width="2"/>
+        <path id="Path_3532" data-name="Path 3532" d="M-11691.3-19308.605h137.7" transform="translate(11965.158 19489.102)" fill="#e6e7e8" stroke="#e6e7e8" stroke-linecap="round" stroke-width="2"/>
+        <g id="Ellipse_152" data-name="Ellipse 152" transform="translate(125 175)" fill="#fff" stroke="#04d2c8" stroke-width="3">
+          <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+          <circle cx="5.5" cy="5.5" r="4" fill="none"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -268, 22.55)" filter="url(#Path_3528)">
+          <g id="Path_3528-2" data-name="Path 3528" transform="translate(324 152.45)" fill="#fff">
+            <path d="M 5.5 9.5 C 3.294389963150024 9.5 1.5 7.705609798431396 1.5 5.5 C 1.5 3.294389963150024 3.294389963150024 1.5 5.5 1.5 C 7.705609798431396 1.5 9.5 3.294389963150024 9.5 5.5 C 9.5 7.705609798431396 7.705609798431396 9.5 5.5 9.5 Z" stroke="none"/>
+            <path d="M 5.5 3 C 4.121500015258789 3 3 4.121500015258789 3 5.5 C 3 6.878499984741211 4.121500015258789 8 5.5 8 C 6.878499984741211 8 8 6.878499984741211 8 5.5 C 8 4.121500015258789 6.878499984741211 3 5.5 3 M 5.5 0 C 8.537569999694824 0 11 2.462430000305176 11 5.5 C 11 8.537569999694824 8.537569999694824 11 5.5 11 C 2.462430000305176 11 0 8.537569999694824 0 5.5 C 0 2.462430000305176 2.462430000305176 0 5.5 0 Z" stroke="none" fill="#04d2c8"/>
+          </g>
+        </g>
+        <g id="Ellipse_153" data-name="Ellipse 153" transform="translate(193 175)" fill="#fff" stroke="#04d2c8" stroke-width="3">
+          <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+          <circle cx="5.5" cy="5.5" r="4" fill="none"/>
+        </g>
+        <g id="Ellipse_155" data-name="Ellipse 155" transform="translate(263 175)" fill="#fff" stroke="#e6e7e8" stroke-width="2">
+          <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+          <circle cx="5.5" cy="5.5" r="4.5" fill="none"/>
+        </g>
+        <g id="Ellipse_156" data-name="Ellipse 156" transform="translate(332 175)" fill="#fff" stroke="#e6e7e8" stroke-width="2">
+          <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+          <circle cx="5.5" cy="5.5" r="4.5" fill="none"/>
+        </g>
+        <g id="Ellipse_157" data-name="Ellipse 157" transform="translate(403 175)" fill="#fff" stroke="#e6e7e8" stroke-width="2">
+          <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+          <circle cx="5.5" cy="5.5" r="4.5" fill="none"/>
+        </g>
+      </g>
+      <circle id="Ellipse_449" data-name="Ellipse 449" cx="7.944" cy="7.944" r="7.944" transform="translate(14087.751 3730.427)" opacity="0.5"/>
+      <text id="Nikhil_Chainani" data-name="Nikhil Chainani" transform="translate(14021 3741)" font-size="7.5" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.8"><tspan x="0" y="0">Nikhil Chainani</tspan></text>
+      <g id="Repeat_Grid_6" data-name="Repeat Grid 6" transform="translate(13724.5 3882.7)" clip-path="url(#clip-path)">
+        <g transform="translate(-14568.5 -4016.7)">
+          <path id="Path_3533" data-name="Path 3533" d="M-17891,331.158h388.506" transform="translate(32459.5 3720.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+          <g id="Group_1583" data-name="Group 1583" transform="translate(0.971 7)">
+            <rect id="Rectangle_1109" data-name="Rectangle 1109" width="37.903" height="8.122" rx="4.061" transform="translate(14568.029 4023)" fill="#b2b2b2" opacity="0.2"/>
+            <text id="_12_" data-name="12 %" transform="translate(14897 4028)" font-size="7.5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">12 %</tspan></text>
+            <g id="Group_1582" data-name="Group 1582" transform="translate(-4)">
+              <g id="Rectangle_1150" data-name="Rectangle 1150" transform="translate(14659 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="13" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <g id="Rectangle_1151" data-name="Rectangle 1151" transform="translate(14676 4020)" fill="#fff" stroke="#04d2c8" stroke-width="0.5">
+                <rect width="13" height="13" rx="6.5" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="6.25" fill="none"/>
+              </g>
+              <g id="Rectangle_1152" data-name="Rectangle 1152" transform="translate(14693 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="12" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="11.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <text id="E" transform="translate(14664 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">E</tspan></text>
+              <text id="M" transform="translate(14680 4029)" fill="#04d2c8" font-size="5" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">M</tspan></text>
+              <text id="H" transform="translate(14697 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">H</tspan></text>
+            </g>
+            <g id="Group_1581" data-name="Group 1581" transform="translate(-18 -3)">
+              <line id="Line_56" data-name="Line 56" x2="16.029" transform="translate(14759.5 4030.624)" fill="none" stroke="#04d2c8" stroke-width="2"/>
+              <line id="Line_57" data-name="Line 57" x2="77.083" transform="translate(14772.917 4030.624)" fill="none" stroke="#e6e7e8" stroke-width="2"/>
+              <g id="Ellipse_450" data-name="Ellipse 450" transform="translate(14768 4026)" fill="#fff" stroke="#04d2c8" stroke-width="1.5">
+                <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+                <circle cx="4.5" cy="4.5" r="3.75" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-14568.5 -3976.7)">
+          <path id="Path_3533-2" data-name="Path 3533" d="M-17891,331.158h388.506" transform="translate(32459.5 3720.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+          <g id="Group_1583-2" data-name="Group 1583" transform="translate(0.971 7)">
+            <rect id="Rectangle_1109-2" data-name="Rectangle 1109" width="37.903" height="8.122" rx="4.061" transform="translate(14568.029 4023)" fill="#b2b2b2" opacity="0.2"/>
+            <text id="_12_2" data-name="12 %" transform="translate(14897 4028)" font-size="7.5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">12 %</tspan></text>
+            <g id="Group_1582-2" data-name="Group 1582" transform="translate(-4)">
+              <g id="Rectangle_1150-2" data-name="Rectangle 1150" transform="translate(14659 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="13" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <g id="Rectangle_1151-2" data-name="Rectangle 1151" transform="translate(14676 4020)" fill="#fff" stroke="#04d2c8" stroke-width="0.5">
+                <rect width="13" height="13" rx="6.5" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="6.25" fill="none"/>
+              </g>
+              <g id="Rectangle_1152-2" data-name="Rectangle 1152" transform="translate(14693 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="12" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="11.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <text id="E-2" data-name="E" transform="translate(14664 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">E</tspan></text>
+              <text id="M-2" data-name="M" transform="translate(14680 4029)" fill="#04d2c8" font-size="5" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">M</tspan></text>
+              <text id="H-2" data-name="H" transform="translate(14697 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">H</tspan></text>
+            </g>
+            <g id="Group_1581-2" data-name="Group 1581" transform="translate(-18 -3)">
+              <line id="Line_56-2" data-name="Line 56" x2="16.029" transform="translate(14759.5 4030.624)" fill="none" stroke="#04d2c8" stroke-width="2"/>
+              <line id="Line_57-2" data-name="Line 57" x2="77.083" transform="translate(14772.917 4030.624)" fill="none" stroke="#e6e7e8" stroke-width="2"/>
+              <g id="Ellipse_450-2" data-name="Ellipse 450" transform="translate(14768 4026)" fill="#fff" stroke="#04d2c8" stroke-width="1.5">
+                <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+                <circle cx="4.5" cy="4.5" r="3.75" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-14568.5 -3936.7)">
+          <path id="Path_3533-3" data-name="Path 3533" d="M-17891,331.158h388.506" transform="translate(32459.5 3720.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+          <g id="Group_1583-3" data-name="Group 1583" transform="translate(0.971 7)">
+            <rect id="Rectangle_1109-3" data-name="Rectangle 1109" width="37.903" height="8.122" rx="4.061" transform="translate(14568.029 4023)" fill="#b2b2b2" opacity="0.2"/>
+            <text id="_12_3" data-name="12 %" transform="translate(14897 4028)" font-size="7.5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">12 %</tspan></text>
+            <g id="Group_1582-3" data-name="Group 1582" transform="translate(-4)">
+              <g id="Rectangle_1150-3" data-name="Rectangle 1150" transform="translate(14659 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="13" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <g id="Rectangle_1151-3" data-name="Rectangle 1151" transform="translate(14676 4020)" fill="#fff" stroke="#04d2c8" stroke-width="0.5">
+                <rect width="13" height="13" rx="6.5" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="6.25" fill="none"/>
+              </g>
+              <g id="Rectangle_1152-3" data-name="Rectangle 1152" transform="translate(14693 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="12" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="11.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <text id="E-3" data-name="E" transform="translate(14664 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">E</tspan></text>
+              <text id="M-3" data-name="M" transform="translate(14680 4029)" fill="#04d2c8" font-size="5" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">M</tspan></text>
+              <text id="H-3" data-name="H" transform="translate(14697 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">H</tspan></text>
+            </g>
+            <g id="Group_1581-3" data-name="Group 1581" transform="translate(-18 -3)">
+              <line id="Line_56-3" data-name="Line 56" x2="16.029" transform="translate(14759.5 4030.624)" fill="none" stroke="#04d2c8" stroke-width="2"/>
+              <line id="Line_57-3" data-name="Line 57" x2="77.083" transform="translate(14772.917 4030.624)" fill="none" stroke="#e6e7e8" stroke-width="2"/>
+              <g id="Ellipse_450-3" data-name="Ellipse 450" transform="translate(14768 4026)" fill="#fff" stroke="#04d2c8" stroke-width="1.5">
+                <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+                <circle cx="4.5" cy="4.5" r="3.75" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-14568.5 -3896.7)">
+          <path id="Path_3533-4" data-name="Path 3533" d="M-17891,331.158h388.506" transform="translate(32459.5 3720.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+          <g id="Group_1583-4" data-name="Group 1583" transform="translate(0.971 7)">
+            <rect id="Rectangle_1109-4" data-name="Rectangle 1109" width="37.903" height="8.122" rx="4.061" transform="translate(14568.029 4023)" fill="#b2b2b2" opacity="0.2"/>
+            <text id="_12_4" data-name="12 %" transform="translate(14897 4028)" font-size="7.5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">12 %</tspan></text>
+            <g id="Group_1582-4" data-name="Group 1582" transform="translate(-4)">
+              <g id="Rectangle_1150-4" data-name="Rectangle 1150" transform="translate(14659 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="13" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <g id="Rectangle_1151-4" data-name="Rectangle 1151" transform="translate(14676 4020)" fill="#fff" stroke="#04d2c8" stroke-width="0.5">
+                <rect width="13" height="13" rx="6.5" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="6.25" fill="none"/>
+              </g>
+              <g id="Rectangle_1152-4" data-name="Rectangle 1152" transform="translate(14693 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="12" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="11.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <text id="E-4" data-name="E" transform="translate(14664 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">E</tspan></text>
+              <text id="M-4" data-name="M" transform="translate(14680 4029)" fill="#04d2c8" font-size="5" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">M</tspan></text>
+              <text id="H-4" data-name="H" transform="translate(14697 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">H</tspan></text>
+            </g>
+            <g id="Group_1581-4" data-name="Group 1581" transform="translate(-18 -3)">
+              <line id="Line_56-4" data-name="Line 56" x2="16.029" transform="translate(14759.5 4030.624)" fill="none" stroke="#04d2c8" stroke-width="2"/>
+              <line id="Line_57-4" data-name="Line 57" x2="77.083" transform="translate(14772.917 4030.624)" fill="none" stroke="#e6e7e8" stroke-width="2"/>
+              <g id="Ellipse_450-4" data-name="Ellipse 450" transform="translate(14768 4026)" fill="#fff" stroke="#04d2c8" stroke-width="1.5">
+                <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+                <circle cx="4.5" cy="4.5" r="3.75" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-14568.5 -3856.7)">
+          <path id="Path_3533-5" data-name="Path 3533" d="M-17891,331.158h388.506" transform="translate(32459.5 3720.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+          <g id="Group_1583-5" data-name="Group 1583" transform="translate(0.971 7)">
+            <rect id="Rectangle_1109-5" data-name="Rectangle 1109" width="37.903" height="8.122" rx="4.061" transform="translate(14568.029 4023)" fill="#b2b2b2" opacity="0.2"/>
+            <text id="_12_5" data-name="12 %" transform="translate(14897 4028)" font-size="7.5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">12 %</tspan></text>
+            <g id="Group_1582-5" data-name="Group 1582" transform="translate(-4)">
+              <g id="Rectangle_1150-5" data-name="Rectangle 1150" transform="translate(14659 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="13" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <g id="Rectangle_1151-5" data-name="Rectangle 1151" transform="translate(14676 4020)" fill="#fff" stroke="#04d2c8" stroke-width="0.5">
+                <rect width="13" height="13" rx="6.5" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="6.25" fill="none"/>
+              </g>
+              <g id="Rectangle_1152-5" data-name="Rectangle 1152" transform="translate(14693 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="12" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="11.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <text id="E-5" data-name="E" transform="translate(14664 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">E</tspan></text>
+              <text id="M-5" data-name="M" transform="translate(14680 4029)" fill="#04d2c8" font-size="5" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">M</tspan></text>
+              <text id="H-5" data-name="H" transform="translate(14697 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">H</tspan></text>
+            </g>
+            <g id="Group_1581-5" data-name="Group 1581" transform="translate(-18 -3)">
+              <line id="Line_56-5" data-name="Line 56" x2="16.029" transform="translate(14759.5 4030.624)" fill="none" stroke="#04d2c8" stroke-width="2"/>
+              <line id="Line_57-5" data-name="Line 57" x2="77.083" transform="translate(14772.917 4030.624)" fill="none" stroke="#e6e7e8" stroke-width="2"/>
+              <g id="Ellipse_450-5" data-name="Ellipse 450" transform="translate(14768 4026)" fill="#fff" stroke="#04d2c8" stroke-width="1.5">
+                <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+                <circle cx="4.5" cy="4.5" r="3.75" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-14568.5 -3816.7)">
+          <path id="Path_3533-6" data-name="Path 3533" d="M-17891,331.158h388.506" transform="translate(32459.5 3720.342)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+          <g id="Group_1583-6" data-name="Group 1583" transform="translate(0.971 7)">
+            <rect id="Rectangle_1109-6" data-name="Rectangle 1109" width="37.903" height="8.122" rx="4.061" transform="translate(14568.029 4023)" fill="#b2b2b2" opacity="0.2"/>
+            <text id="_12_6" data-name="12 %" transform="translate(14897 4028)" font-size="7.5" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">12 %</tspan></text>
+            <g id="Group_1582-6" data-name="Group 1582" transform="translate(-4)">
+              <g id="Rectangle_1150-6" data-name="Rectangle 1150" transform="translate(14659 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="13" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <g id="Rectangle_1151-6" data-name="Rectangle 1151" transform="translate(14676 4020)" fill="#fff" stroke="#04d2c8" stroke-width="0.5">
+                <rect width="13" height="13" rx="6.5" stroke="none"/>
+                <rect x="0.25" y="0.25" width="12.5" height="12.5" rx="6.25" fill="none"/>
+              </g>
+              <g id="Rectangle_1152-6" data-name="Rectangle 1152" transform="translate(14693 4020)" fill="#fff" stroke="#313131" stroke-width="0.5">
+                <rect width="12" height="13" rx="4" stroke="none"/>
+                <rect x="0.25" y="0.25" width="11.5" height="12.5" rx="3.75" fill="none"/>
+              </g>
+              <text id="E-6" data-name="E" transform="translate(14664 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">E</tspan></text>
+              <text id="M-6" data-name="M" transform="translate(14680 4029)" fill="#04d2c8" font-size="5" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">M</tspan></text>
+              <text id="H-6" data-name="H" transform="translate(14697 4029)" fill="#313131" font-size="5" font-family="Lato-Regular, Lato"><tspan x="0" y="0">H</tspan></text>
+            </g>
+            <g id="Group_1581-6" data-name="Group 1581" transform="translate(-18 -3)">
+              <line id="Line_56-6" data-name="Line 56" x2="16.029" transform="translate(14759.5 4030.624)" fill="none" stroke="#04d2c8" stroke-width="2"/>
+              <line id="Line_57-6" data-name="Line 57" x2="77.083" transform="translate(14772.917 4030.624)" fill="none" stroke="#e6e7e8" stroke-width="2"/>
+              <g id="Ellipse_450-6" data-name="Ellipse 450" transform="translate(14768 4026)" fill="#fff" stroke="#04d2c8" stroke-width="1.5">
+                <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+                <circle cx="4.5" cy="4.5" r="3.75" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

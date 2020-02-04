@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="741.452" height="529.001" viewBox="0 0 741.452 529.001">
+  <defs>
+    <filter id="Rectangle_581" x="18.605" y="59" width="584.741" height="367.25" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_586" x="154.5" y="255.23" width="492.791" height="197.831" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1597" data-name="Group 1597" transform="translate(-196 -3028)">
+    <path id="Path_3418" data-name="Path 3418" d="M448.856,0l61.807,120.554H498.186v98.307h62.879l36.225,70.655L148.436,519.645,0,230.128Z" transform="translate(340.162 3028)" fill="#f2f2f2" opacity="0.7"/>
+    <ellipse id="Ellipse_388" data-name="Ellipse 388" cx="11.118" cy="11.118" rx="11.118" ry="11.118" transform="translate(381.176 3491.496)" fill="#2dbfbd" opacity="0.4"/>
+    <ellipse id="Ellipse_389" data-name="Ellipse 389" cx="14.629" cy="14.629" rx="14.629" ry="14.629" transform="translate(420.541 3527.743)" fill="#2dbfbd" opacity="0.4"/>
+    <rect id="Rectangle_927" data-name="Rectangle 927" width="74.901" height="74.901" transform="translate(847.711 3162.598)" fill="#316f98" opacity="0.5"/>
+    <ellipse id="Ellipse_387" data-name="Ellipse 387" cx="27.503" cy="27.503" rx="27.503" ry="27.503" transform="translate(196 3083.844)" fill="#2dbfbd" opacity="0.4"/>
+    <g id="Group_1236" data-name="Group 1236" transform="translate(24320.645 -4061.55)">
+      <g transform="matrix(1, 0, 0, 1, -24124.64, 7089.55)" filter="url(#Rectangle_581)">
+        <rect id="Rectangle_581-2" data-name="Rectangle 581" width="566.741" height="349.25" rx="4" transform="translate(27.61 67)" fill="#edf9f9"/>
+      </g>
+    </g>
+    <path id="Rectangle_582" data-name="Rectangle 582" d="M4,0H136.271V349.25H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(220 3095.001)" fill="#454483"/>
+    <rect id="Rectangle_588" data-name="Rectangle 588" width="90.245" height="8.122" rx="4.061" transform="translate(237.146 3155.466)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_591" data-name="Rectangle 591" width="33.391" height="10.829" rx="5.415" transform="translate(237.146 3111.245)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_589" data-name="Rectangle 589" width="66.782" height="8.122" rx="4.061" transform="translate(237.146 3175.32)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_590" data-name="Rectangle 590" width="87.538" height="8.122" rx="4.061" transform="translate(237.146 3193.369)" fill="#b2b2b2" opacity="0.21"/>
+    <rect id="Rectangle_586-2" data-name="Rectangle 586" width="402.494" height="162.564" rx="4" transform="translate(373 3132.735)" fill="#fff"/>
+    <path id="Path_2422" data-name="Path 2422" d="M-17891,331.158h354.211" transform="translate(18288.396 2874.493)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Path_2423" data-name="Path 2423" d="M-17891,331.158h354.211" transform="translate(18288.396 2896.152)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Path_2424" data-name="Path 2424" d="M-17891,331.158h354.211" transform="translate(18288.396 2917.811)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Path_2424-2" data-name="Path 2424" d="M-17891,331.158h354.211" transform="translate(18288.396 2938.811)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Rectangle_954" data-name="Rectangle 954" d="M201,0H4A4,4,0,0,0,0,4V22H201Z" transform="translate(373 3132)" fill="#e3e3e3" opacity="0.7"/>
+    <text id="Student_Database" data-name="Student Database" transform="translate(436.645 3146)" fill="#313131" font-size="8" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.8"><tspan x="0" y="0">Student Database</tspan></text>
+    <text id="See_more" data-name="See more" transform="translate(558 3285.45)" fill="#04d2c8" font-size="8" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">See more</tspan></text>
+    <text id="Student_s_Database" data-name="Student&apos;s Database" transform="translate(392.645 3173.45)" fill="#313131" font-size="8" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.8"><tspan x="0" y="0">Recruiter&apos;s Database</tspan></text>
+    <text id="Recruiter_Database" data-name="Recruiter Database" transform="translate(639 3146)" fill="#313131" font-size="8" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.8"><tspan x="0" y="0">Recruiter Database</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 196, 3028)" filter="url(#Rectangle_586)">
+      <rect id="Rectangle_586-3" data-name="Rectangle 586" width="447.791" height="152.831" rx="4" transform="translate(177 276.73)" fill="#fff"/>
+    </g>
+    <path id="Path_2422-2" data-name="Path 2422" d="M-17891,331.158h392.557" transform="translate(18291.846 3043.305)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Path_2423-2" data-name="Path 2423" d="M-17891,331.158h392.557" transform="translate(18291.846 3068.081)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <path id="Path_2424-3" data-name="Path 2424" d="M-17891,331.158h392.557" transform="translate(18291.846 3092.857)" fill="none" stroke="#e6e7e8" stroke-width="1" opacity="0.39"/>
+    <text id="See_more-2" data-name="See more" transform="translate(581 3446.45)" fill="#04d2c8" font-size="8" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">See more</tspan></text>
+    <rect id="Rectangle_597" data-name="Rectangle 597" width="74.607" height="17.71" rx="2" transform="translate(732 3317)" fill="#04d2c8" opacity="0.96"/>
+    <text id="Invite_Recruiters" data-name="Invite Recruiters" transform="translate(748 3328)" fill="#fff" font-size="6" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Invite Recruiters</tspan></text>
+    <text id="Recruiters_Invite_Status" data-name="Recruiters Invite Status" transform="translate(396.645 3323.45)" fill="#313131" font-size="8" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" opacity="0.8"><tspan x="0" y="0">Recruiters Invite Status</tspan></text>
+    <rect id="Rectangle_1003" data-name="Rectangle 1003" width="29" height="6" rx="3" transform="translate(437 3192)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1006" data-name="Rectangle 1006" width="29" height="6" rx="3" transform="translate(441 3359)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1004" data-name="Rectangle 1004" width="16" height="6" rx="3" transform="translate(398 3192)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1005" data-name="Rectangle 1005" width="16" height="6" rx="3" transform="translate(402 3359)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1002" data-name="Rectangle 1002" width="29" height="6" rx="3" transform="translate(508 3192)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1007" data-name="Rectangle 1007" width="29" height="6" rx="3" transform="translate(526 3359)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1001" data-name="Rectangle 1001" width="50" height="6" rx="3" transform="translate(568 3192)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1008" data-name="Rectangle 1008" width="50" height="6" rx="3" transform="translate(595 3359)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1000" data-name="Rectangle 1000" width="28" height="6" rx="3" transform="translate(649 3192)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1009" data-name="Rectangle 1009" width="28" height="6" rx="3" transform="translate(684 3359)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_999" data-name="Rectangle 999" width="37" height="6" rx="3" transform="translate(712 3192)" fill="#f6f6f6" opacity="0.7"/>
+    <rect id="Rectangle_1010" data-name="Rectangle 1010" width="37" height="6" rx="3" transform="translate(756 3359)" fill="#f6f6f6" opacity="0.7"/>
+  </g>
+</svg>
